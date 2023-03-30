@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luank\\Desktop\\CSharpDotNet\\C#.csproj": {}
+    "C:\\Users\\luank\\Desktop\\CSharpDotNet\\cSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luank\\Desktop\\CSharpDotNet\\C#.csproj": {
+    "C:\\Users\\luank\\Desktop\\CSharpDotNet\\cSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luank\\Desktop\\CSharpDotNet\\C#.csproj",
-        "projectName": "C#",
-        "projectPath": "C:\\Users\\luank\\Desktop\\CSharpDotNet\\C#.csproj",
+        "projectUniqueName": "C:\\Users\\luank\\Desktop\\CSharpDotNet\\cSharp.csproj",
+        "projectName": "cSharp",
+        "projectPath": "C:\\Users\\luank\\Desktop\\CSharpDotNet\\cSharp.csproj",
         "packagesPath": "C:\\Users\\luank\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\luank\\Desktop\\CSharpDotNet\\obj\\",
         "projectStyle": "PackageReference",

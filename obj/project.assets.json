@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luank\\Desktop\\C#\\C#.csproj",
-      "projectName": "C#",
-      "projectPath": "C:\\Users\\luank\\Desktop\\C#\\C#.csproj",
+      "projectUniqueName": "C:\\Users\\luank\\Desktop\\CSharpDotNet\\cSharp.csproj",
+      "projectName": "cSharp",
+      "projectPath": "C:\\Users\\luank\\Desktop\\CSharpDotNet\\cSharp.csproj",
       "packagesPath": "C:\\Users\\luank\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luank\\Desktop\\C#\\obj\\",
+      "outputPath": "C:\\Users\\luank\\Desktop\\CSharpDotNet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luank\\AppData\\Roaming\\NuGet\\NuGet.Config"
