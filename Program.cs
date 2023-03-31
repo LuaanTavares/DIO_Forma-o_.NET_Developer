@@ -4,11 +4,20 @@
 // pessoa1.Nome = "Luan";
 // pessoa1.Idade = 27;
 // pessoa1.Apresentar();
+//--------------------------------------------------------------
 
-Calculadora calc = new Calculadora();
-calc.Somar(2,10);
-calc.Subtrair(2,10);
-calc.Dividir(2,10);
-calc.Multiplicar(2,10);
-calc.Potencia(2,10);
-calc.RaizQuadrada(25);
+// Calculadora calc = new Calculadora();
+// calc.Somar(2,10);
+// calc.Subtrair(2,10);
+// calc.Dividir(2,10);
+// calc.Multiplicar(2,10);
+// calc.Potencia(2,10);
+// calc.RaizQuadrada(25);
+//--------------------------------------------------------------
+
+int numero = 10;
+
+for (int contador = 1; contador <= 10; contador++){
+
+Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+}
